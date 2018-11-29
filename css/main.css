@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background: url("website_home_background.jpg");
+  background-image: url("website_home_background.jpg");
   background-size: cover;
   background-position: relative;
 }
