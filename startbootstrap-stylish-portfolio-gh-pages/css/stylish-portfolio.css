@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Source Sans Pro';
-  color: orange;
+  color: white;
 }
 
 .btn-xl {
@@ -105,7 +105,7 @@ h6 {
   font-size: 4rem;
   margin: 0;
   padding: 0;
-  color: white;
+  color: orange;
 }
 
 @media (min-width: 992px) {
